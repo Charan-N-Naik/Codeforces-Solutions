@@ -33,23 +33,12 @@ This repository contains my solutions to Codeforces problems solved during my da
 
 ## 📂 Repository Structure
 
-```
 Codeforces-Solutions
 │
-├── Div2/
-│   ├── Round-1312/
-│   │      A.java
-│   │      B.java
-│   │      C.java
-│   │
-│   └── Round-1313/
-│
-├── Educational/
-│
-├── Global/
-│
-└── Practice/
-```
+├── 118E_Bertown_Roads.java
+├── 427C_Checkposts.java
+├── 580C_Kefa_and_Park.java
+├── ...
 
 ## 🏆 Platforms
 
