@@ -36,9 +36,6 @@ This repository contains my solutions to Codeforces problems solved during my da
 Codeforces-Solutions
 │
 ├── 118E_Bertown_Roads.java
-├── 427C_Checkposts.java
-├── 580C_Kefa_and_Park.java
-├── ...
 ```
 ## 🏆 Platforms
 
