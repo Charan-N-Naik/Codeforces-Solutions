@@ -1,0 +1,8 @@
+*.class
+
+# VS Code
+.vscode/
+
+# Java build directories
+bin/
+out/
