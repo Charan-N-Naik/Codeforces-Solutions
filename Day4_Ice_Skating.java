@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class DAY4_Ice_Skating {
+public class Day4_Ice_Skating {
 
     static class DSU{
         int par[];
